@@ -19,7 +19,7 @@ global.ownernomer = '6285878313791'
 global.ownername = 'KiZakiXD'
 global.botname = 'Chitanda - MD'
 global.tengah = "									"
-global.Prefix = 'Multi Prefix'
+global.Prefix = '.'
 global.meki = '6285878313791'
 global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
 //Isi Sesuai Namalu Buat Tambah Tqtq
